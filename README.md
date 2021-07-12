@@ -1,6 +1,7 @@
 # Movie Booking Program
 This program is about booking a movie tickets for every user.The programm is designed in a way that ever user is able to utilize the features easily. Admin can add movies easily by providing the right credentials. Movie lovers would able to view the movies and even book a movie.
 ## Movie Booking
+![1-11454_movies-clipart-movie-symbol-camera-gif-transparent-background](https://user-images.githubusercontent.com/86122736/125241458-174c0180-e309-11eb-8a35-d0faf148469e.png)
 
 ## Main Menu
 - Choose from Main Menu
