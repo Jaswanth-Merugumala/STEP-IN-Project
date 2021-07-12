@@ -23,7 +23,7 @@ The program consists of multiple functions, for each action we declared a functi
 ## SWAT Analysis
 
 
-![Screenshot (26)](C:\Users\Jashu\Pictures\Screenshots)
+![Screenshot (26)](https://user-images.githubusercontent.com/86122736/125240918-6180b300-e308-11eb-8acc-d79592aaad71.png)
 
 
 ## 4W's and 1H
