@@ -4,6 +4,7 @@ This program is about booking a movie tickets for every user.The programm is des
 [![Cpp check](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/cppcheck.yml) 
 [![BUILD](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/build.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/build.yml)
 [![Git Inspector](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/gitinspector.yml)
+[![Static Code Analysis](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/staticCodeAnalysis.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/staticCodeAnalysis.yml)
 ## Movie Booking
 ![1-11454_movies-clipart-movie-symbol-camera-gif-transparent-background](https://user-images.githubusercontent.com/86122736/125241458-174c0180-e309-11eb-8a35-d0faf148469e.png)
 
