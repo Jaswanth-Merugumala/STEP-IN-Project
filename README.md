@@ -2,6 +2,7 @@
 This program is about booking a movie tickets for every user.The programm is designed in a way that ever user is able to utilize the features easily. Admin can add movies easily by providing the right credentials. Movie lovers would able to view the movies and even book a movie.
 # Badges
 [![Cpp check](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/cppcheck.yml) 
+[![BUILD](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/build.yml/badge.svg)](https://github.com/Jaswanth-Merugumala/STEP-IN-Project/actions/workflows/build.yml)
 ## Movie Booking
 ![1-11454_movies-clipart-movie-symbol-camera-gif-transparent-background](https://user-images.githubusercontent.com/86122736/125241458-174c0180-e309-11eb-8a35-d0faf148469e.png)
 
